@@ -1,4 +1,4 @@
-# Forest Cover Type Classification Using Machine Learning
+# Forest Cover Type Classification
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmedEhab2022/Forest-Cover-Type-Classification/blob/main/Forest_Cover_Type_Classification.ipynb)
 
@@ -217,3 +217,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Data Source
 
 Dataset: [Forest Cover Type Dataset](https://archive.ics.uci.edu/ml/datasets/covertype) from UCI Machine Learning Repository
+
