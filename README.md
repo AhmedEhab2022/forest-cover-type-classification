@@ -156,7 +156,7 @@ gunzip data/covtype.data.gz
 - **Machine Learning**: scikit-learn (Decision Tree, Random Forest, GridSearchCV)
 - **Advanced ML**: XGBoost for gradient boosting
 - **Evaluation**: Classification metrics and confusion matrix analysis
-- **Environment**: Jupyter Notebook
+- **Environment**: Colab
 
 ## Project Structure
 
@@ -217,5 +217,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Data Source
 
 Dataset: [Forest Cover Type Dataset](https://archive.ics.uci.edu/ml/datasets/covertype) from UCI Machine Learning Repository
+
 
 
