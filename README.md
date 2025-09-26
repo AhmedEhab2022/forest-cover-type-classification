@@ -143,7 +143,7 @@ gunzip data/covtype.data.gz
 
 ### Option 2: Local Setup
 
-1. Clone this repository: `git clone <repository-url>`
+1. Clone this repository: `git clone https://github.com/AhmedEhab2022/forest-cover-type-classification.git`
 2. **Download the dataset** (see Dataset Download section above)
 3. Install dependencies: `pip install -r requirements.txt`
 4. Open `Forest_Cover_Type_Classification.ipynb` in Jupyter
@@ -217,4 +217,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Data Source
 
 Dataset: [Forest Cover Type Dataset](https://archive.ics.uci.edu/ml/datasets/covertype) from UCI Machine Learning Repository
+
 
